@@ -1,0 +1,123 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: monospace;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 20px;
+}
+
+.bottom-container {
+  height: 100px;
+  position: relative;
+  background-color: #66BFBF;
+  padding-top: 40px;
+}
+
+.profile{
+  width: 50%;
+  margin: 10px auto 20px auto;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 45px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+#developer {
+  font-weight: normal;
+}
+
+a {
+  color: #11999E;
+}
+
+.mountain {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.topCloud {
+  position: absolute;
+  right: 350px;
+}
+
+.botCloud {
+  position: absolute;
+  left: 340px;
+}
+
+.profilepic {
+  height: 130px;
+  width: 130px;
+  border-radius: 80%;
+  border: solid;
+  border-color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 10%;
+}
+
+.skills-pic1 {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-pic2 {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  position: relative;
+  color: white;
+  background-color: #66BFBF;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  cursor: pointer;
+  line-height: 5;
+  margin: auto auto auto auto;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
