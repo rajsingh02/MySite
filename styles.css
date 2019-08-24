@@ -55,6 +55,12 @@ h3 {
 }
 
 a {
+  color: #0d7377;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration:none;
+}
+
+a:hover{
   color: #11999E;
 }
 
@@ -88,6 +94,7 @@ hr {
   border-color: #EAF6F6;
   border-width: 6px;
   width: 10%;
+  margin: 100px auto 100px auto;
 }
 
 .skills-pic1 {
@@ -105,11 +112,12 @@ hr {
 .skill-row {
   width: 50%;
   margin: 70px auto 70px auto;
-  text-align: left;
+  text-align: center;
   line-height: 1.75;
 }
 
 .btn {
+  font-family: 'Montserrat', sans-serif;
   position: relative;
   color: white;
   background-color: #66BFBF;
@@ -120,7 +128,19 @@ hr {
   line-height: 5;
   margin: auto auto auto auto;
 }
+.btn:hover{
+  color: white;
+  background-color: #0d7377;
+  text-decoration: none;
+}
 
 .contact-me {
-  margin-bottom: 50px;
+  margin: 0px auto 80px auto;
+}
+
+.copyright{
+  font-family: 'Montserrat', sans-serif;
+  color: #0d7377;
+  font-size: 0.80rem;
+  padding: 20px 0px;
 }
