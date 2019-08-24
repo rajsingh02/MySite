@@ -15,6 +15,7 @@ body {
 .middle-container {
   position: relative;
   padding-top: 20px;
+  line-height: 2;
 }
 
 .bottom-container {
